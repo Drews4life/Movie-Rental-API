@@ -1,3 +1,4 @@
 {
-  "jwtPrivateKey": "drews_jwtPrivateKey"
+  "jwtPrivateKey": "drews_jwtPrivateKey",
+  "db": "drews_db"
 }
